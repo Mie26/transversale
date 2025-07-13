@@ -85,7 +85,7 @@ $clubs = [
 <body>
   <?php include __DIR__ . '/../components/header.php'; ?>
 
-  <main class="container mt-4 mb-5">
+  <main class="container mb-5">
     <h1 class="mb-4">Liste des clubs</h1>
     <p class="mb-4">Voici la liste des clubs adaptés à votre profil :</p>
 

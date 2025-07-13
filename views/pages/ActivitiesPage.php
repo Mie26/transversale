@@ -20,7 +20,7 @@ $description = "Liste des activités proposées par les clubs.";
 <body>
   <?php include __DIR__ . '/../components/header.php'; ?>
 
-  <main class="container mt-5">
+  <main class="container">
     <h1>Activités des clubs</h1>
     <p>Voici les activités à venir :</p>
 
